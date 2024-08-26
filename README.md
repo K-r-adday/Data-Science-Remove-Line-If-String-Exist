@@ -1,4 +1,4 @@
-# Data Science - remove line if string exist
+# Data Science - Remove Line If String Exist
 a simple python code to delete line from list if it contain specific string 
 
 Usage:
